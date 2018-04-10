@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Participants
 The following organizations and individuals are participating in the development of a joint roadmap for open science tools:
 * AGU (EESOAr)
