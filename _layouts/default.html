@@ -25,7 +25,7 @@
 
         <nav>
           {% for item in site.data.navigation.docs %}
-            {% if page.url == item.url %}
+            {% if page.url contains item.url %}
               <h2>{{ item.title }}</h2>
             {% else %}
               <h2><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></h2>
