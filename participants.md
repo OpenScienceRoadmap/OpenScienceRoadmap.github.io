@@ -8,6 +8,7 @@ The following organizations and individuals are participating in the development
 * bioRxiv
 * CoKo
 * Crossref
+* Daniel Mietchen
 * Dat (and Code for Science & Society)
 * eLife
 * Europe PMC
@@ -21,5 +22,6 @@ The following organizations and individuals are participating in the development
 * ORCID
 * OSF/COS
 * RRCHNM (Zotero)
+* Sam Hindle
 * SPARC
 * Wikimedia
