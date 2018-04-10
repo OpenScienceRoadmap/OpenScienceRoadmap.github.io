@@ -24,7 +24,11 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
           {% for item in site.data.navigation.docs %}
-            <h2><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></h2>
+            {% if page.url == node.url %}
+              <h2>{{ item.title }}</h2>
+            {% else %}
+              <h2><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></h2>
+            {% endif %}
           {% endfor %}
 
       </header>
