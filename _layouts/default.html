@@ -23,6 +23,7 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
+        <nav>
           {% for item in site.data.navigation.docs %}
             {% if page.url == item.url %}
               <h2>{{ item.title }}</h2>
@@ -30,6 +31,7 @@
               <h2><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></h2>
             {% endif %}
           {% endfor %}
+        </nav>
 
       </header>
       <section>
@@ -38,7 +40,7 @@
 
       </section>
       <footer>
-        <p>Contact us: <a href="mailto:info@jrost.org">info@jrost.org</a></p>
+        <p><strong>Contact us</strong>: <a href="mailto:info@jrost.org">info@jrost.org</a></p>
       </footer>
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
