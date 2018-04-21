@@ -3,6 +3,17 @@
 
 @import "{{ site.theme }}";
 
+a {
+}
+
+a:hover, a:focus {
+  font-weight: unset;
+  text-decoration: underline;
+}
+
 img.participants {
-  width: 200px;
+  height: auto;
+  max-width: none;
+  min-width: 0;
+  width: auto;
 }
