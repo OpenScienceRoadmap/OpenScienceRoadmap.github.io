@@ -3,17 +3,34 @@
 
 @import "{{ site.theme }}";
 
-a {
-}
-
 a:hover, a:focus {
   font-weight: unset;
   text-decoration: underline;
 }
 
-img.participants {
+/* Partcipants */
+logo {
+  display: block;
+}
+
+logo img {
   height: auto;
   max-width: none;
   min-width: 0;
   width: auto;
+}
+
+name {
+  display: block;
+}
+
+organization {
+  margin: 1em;
+  width: 200px;
+}
+
+organizations {
+  align-items: center;
+  display: flex;
+  flex-flow: row wrap;
 }

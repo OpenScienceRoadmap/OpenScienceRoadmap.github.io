@@ -1,0 +1,111 @@
+people:
+# add in any order; sorted on output
+# namefamily required
+
+- namegiven: Samantha
+  namefamily: Hindle
+  url: https://twitter.com/hindlesamantha
+
+- namegiven: Daniel
+  namefamily: Mietchen
+  url: https://dsi.virginia.edu/people/daniel-mietchen
+
+orgs:
+# add in any order; sorted on output
+# org required
+
+- org: Hypothesis
+  orgurl: https://web.hypothes.is/
+  orglogo: Hypothesis.png
+
+- org: Earth and Space Science Open Archive
+  orgnick: EESOAr
+  orgurl: https://www.essoar.org/
+  orglogo: ESSOAr.png
+  parent: American Geophysical Union
+  parentnick: AGU
+  parenturl: https://sites.agu.org/
+  parentlogo: AGU.png
+
+- org: Berkeley Institute of Data Science
+  orgnick: BIDS
+  orgurl: https://bids.berkeley.edu/
+  orglogo: BIDS.png
+
+- org: bioRxiv
+  orgnick: bioRxiv
+  orgurl: https://www.biorxiv.org/
+  orglogo: bioRxiv.png
+
+- org: Collaborative Knowledge Foundation
+  orgnick: Coko
+  orgurl: https://coko.foundation/
+  orglogo: Coko.png
+
+- org: Crossref
+  orgnick: Crossref
+  orgurl: https://www.crossref.org/
+  orglogo: Crossref.png
+
+- org: Dat Project
+  orgnick: Dat Project
+  orgurl: https://datproject.org/
+  orglogo: Dat.png
+  parent: Code for Science & Society
+  parentnick: CSS
+  parenturl: https://codeforscience.org/
+
+- org: eLife
+  orgurl: https://elifesciences.org/
+  orglogo: eLife.png
+
+- org: Europe PMC
+  orgurl: https://europepmc.org/
+  orglogo: EuropePMC.png
+
+- org: ITHAKA
+  orgurl: https://www.ithaka.org/
+  orglogo: Ithaka.png
+
+- org: Jupyter Project
+  orgurl: http://jupyter.org/
+
+- org: Meta
+  orgurl: https://meta.com/
+
+- org: Mozilla
+  orgurl: https://www.mozilla.org/﻿
+
+- org: Public Library of Science
+  orgnick: PLOS
+  orgurl: https://www.plos.org/
+
+- org: Open Journal Systems
+  orgnick: OJS
+  orgurl: https://pkp.sfu.ca/ojs/
+  parent: Public Knowledge Project
+  parentnick: PKP
+  parenturl: https://pkp.sfu.ca/
+
+- org: ORCID
+  orgurl: https://orcid.org/
+
+- org: Open Science Framework
+  orgnick: OSF
+  orgurl: https://osf.io/
+  parent: Center for Open Science
+  parentnick: COS
+  parenturl: https://cos.io/
+
+- org: Zotero
+  orgurl: https://www.zotero.org/
+  parent: Roy Rosenzweig Center for History and New Media ()](
+  parentnick: RRCHNM
+  parenturl: https://rrchnm.org/
+
+- org: Scholarly Publishing and Academic Resources Coalition
+  orgnick: SPARC
+  orgurl: https://sparcopen.org/
+
+- org: Wikimedia
+  orgurl: https://www.wikimedia.org/

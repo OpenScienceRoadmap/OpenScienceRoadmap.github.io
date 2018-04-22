@@ -2,29 +2,50 @@
 layout: default
 ---
 
-<style>
-  td {
-    border:none;
-    padding: 1em;
-  }
-</style>
-
 # Participants
 The following individuals and organizations are participating in the development of a joint roadmap for open science tools, <a href="mailto:info@jrost.org" title="email JROST">Contact us to join</a>.
 
-## Individuals
-* [Daniel Mietchen](https://dsi.virginia.edu/people/daniel-mietchen)
-* [Sam Hindle](https://twitter.com/hindlesamantha)
+<h2 id="individuals">Individuals</h2>
+<people>
+<ul>
+  {%- assign individuals = site.data.participants.people | sort: 'namefamily' -%}
+  {%- for individual in individuals -%}
+    <li>
+      {%- if individual.url -%}<a href="{{ individual.url }}">{%- endif -%}
+      {%- if individual.namegiven -%}{{ individual.namegiven | append: ' ' }}{%- endif -%}
+      {{ individual.namefamily }}
+      {%- if individual.url -%}</a>{%- endif -%}
+    </li>
+  {%- endfor -%}
+</ul>
+</people>
 
-## Organizations
-
-| [![American Geophysical Union (AGU) logo](/assets/img/AGU.png){: .participants}](https://sites.agu.org/)<br />[American Geophysical Union (AGU)](https://sites.agu.org/) [Earth and Space Science Open Archive (EESOAr)](https://www.essoar.org/) | [![Berkeley Institute of Data Science (BIDS) logo](/assets/img/BIDS.png){: .participants}](https://bids.berkeley.edu/)<br />[Berkeley Institute of Data Science (BIDS)](https://bids.berkeley.edu/) |
-| [![bioRxiv logo](/assets/img/bioRxiv.png){: .participants}](https://www.biorxiv.org/)<br />[bioRxiv](https://www.biorxiv.org/) | [![Collaborative Knowledge Foundation (Coko) logo](/assets/img/Coko.png){: .participants}](https://coko.foundation/)<br />[Collaborative Knowledge Foundation (Coko)](https://coko.foundation/) |
-| [![Crossref logo](/assets/img/Crossref.png){: .participants}](https://www.crossref.org/)<br />[Crossref](https://www.crossref.org/) | [![Dat Project logo](/assets/img/Dat.png){: .participants}](https://datproject.org/)<br />[Dat Project](https://datproject.org/)/[Code for Science & Society](https://codeforscience.org/) |
-| [![eLife logo](/assets/img/eLife.png){: .participants}](https://elifesciences.org/)<br />[eLife](https://elifesciences.org/) | [![Europe PMC logo](/assets/img/EuropePMC.png){: .participants}](https://europepmc.org/)<br />[Europe PMC](https://europepmc.org/) |
-| [![Hypothesis logo](/assets/img/Hypothesis.png){: .participants}](https://web.hypothes.is/)<br />[Hypothesis](https://web.hypothes.is/) | [ITHAKA](https://www.ithaka.org/) |
-| [Jupyter Project](http://jupyter.org/) | [Meta](https://meta.com/) |
-| [Mozilla](https://www.mozilla.org/﻿) | [Public Library of Science (PLOS)](https://www.plos.org/) |
-| [Open Journal Systems (OJS)](https://pkp.sfu.ca/ojs/)/[Public Knowledge Project (PKP)](https://pkp.sfu.ca/) | [ORCID](https://orcid.org/) |
-| [Open Science Framework (OSF)](https://osf.io/)/[Center for Open Science (COS)](https://cos.io/) | [Zotero](https://www.zotero.org/)/[Roy Rosenzweig Center for History and New Media (RRCHNM)](https://rrchnm.org/) |
-| [Scholarly Publishing and Academic Resources Coalition (SPARC)](https://sparcopen.org/) | [Wikimedia](https://www.wikimedia.org/) |
+<h2 id="organizations">Organizations</h2>
+<organizations>
+{%- assign organizations = site.data.participants.orgs | sort_natural: 'org' -%}
+{%- for organization in organizations -%}
+  <organization>
+    <logo>
+      {%- if organization.orglogo -%}
+        {%- if organization.orgurl -%}<a href="{{ organization.orgurl }}">{%- endif -%}
+        {{ organization.orglogo | prepend: '<img src="/assets/img/' | append: '" alt="' | append: organization.orgnick | append: ' logo" />' }}
+        {%- if organization.orgurl -%}</a>{%- endif -%}
+      {%- elsif organization.parentlogo -%}  
+        {%- if organization.parenturl -%}<a href="{{ organization.parenturl }}">{%- endif -%}
+        {{ organization.parentlogo | prepend: '<img src="/assets/img/' | append: '" alt="' | append: organization.parentnick | append: ' logo" />' }}
+        {%- if organization.parenturl -%}</a>{%- endif -%}
+      {%- endif -%}
+    </logo>
+    <name>
+      {%- if organization.orgurl -%}<a href="{{ organization.orgurl }}">{%- endif -%}
+      {{ organization.org }}
+      {%- if organization.orgnick -%}{{ organization.orgnick | prepend: ' (' | append: ')' }}{%- endif -%}
+      {%- if organization.orgurl -%}</a>{%- endif -%}
+      {%- if organization.parenturl -%}&nbsp;/&nbsp;<a href="{{ organization.parenturl }}">{%- endif -%}
+      {%- if organization.parent -%}{{ organization.parent }}{%- endif -%}
+      {%- if organization.parentnick -%}{{ organization.parentnick | prepend: ' (' | append: ')' }}{%- endif -%}
+      {%- if organization.parenturl -%}</a>{%- endif -%}
+    </name>
+  </organization>
+{%- endfor -%}
+</organizations>
