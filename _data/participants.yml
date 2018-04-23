@@ -69,36 +69,44 @@ orgs:
 
 - org: Jupyter Project
   orgurl: http://jupyter.org/
+  orglogo: Jupyter.png
 
 - org: Meta
   orgurl: https://meta.com/
+  orglogo: Meta.png
 
 - org: Mozilla
-  orgurl: https://www.mozilla.org/﻿
+  orgurl: https://mozilla.org/﻿
+  orglogo: Mozilla.png
 
 - org: Public Library of Science
   orgnick: PLOS
   orgurl: https://www.plos.org/
+  orglogo: PLOS.png
 
 - org: Open Journal Systems
   orgnick: OJS
   orgurl: https://pkp.sfu.ca/ojs/
+  orglogo: OJS.png
   parent: Public Knowledge Project
   parentnick: PKP
   parenturl: https://pkp.sfu.ca/
 
 - org: ORCID
   orgurl: https://orcid.org/
+  orglogo: ORCID.png
 
 - org: Open Science Framework
   orgnick: OSF
   orgurl: https://osf.io/
+  orglogo: OSF.png
   parent: Center for Open Science
   parentnick: COS
   parenturl: https://cos.io/
 
 - org: Zotero
   orgurl: https://www.zotero.org/
+  orglogo: Zotero.png
   parent: Roy Rosenzweig Center for History and New Media ()](
   parentnick: RRCHNM
   parenturl: https://rrchnm.org/
@@ -106,6 +114,8 @@ orgs:
 - org: Scholarly Publishing and Academic Resources Coalition
   orgnick: SPARC
   orgurl: https://sparcopen.org/
+  orglogo: SPARC.png
 
 - org: Wikimedia
   orgurl: https://www.wikimedia.org/
+  orglogo: Wikimedia.png
