@@ -59,10 +59,6 @@ orgs:
   orgurl: https://elifesciences.org/
   orglogo: eLife.png
 
-- org: Europe PMC
-  orgurl: https://europepmc.org/
-  orglogo: EuropePMC.png
-
 - org: ITHAKA
   orgurl: https://www.ithaka.org/
   orglogo: Ithaka.png
