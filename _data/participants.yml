@@ -67,12 +67,8 @@ orgs:
   orgurl: http://jupyter.org/
   orglogo: Jupyter.png
 
-- org: Meta
-  orgurl: https://meta.com/
-  orglogo: Meta.png
-
 - org: Mozilla
-  orgurl: https://mozilla.org/﻿
+  orgurl: https://mozilla.org/
   orglogo: Mozilla.png
 
 - org: Public Library of Science
@@ -103,7 +99,7 @@ orgs:
 - org: Zotero
   orgurl: https://www.zotero.org/
   orglogo: Zotero.png
-  parent: Roy Rosenzweig Center for History and New Media ()](
+  parent: Roy Rosenzweig Center for History and New Media
   parentnick: RRCHNM
   parenturl: https://rrchnm.org/
 
