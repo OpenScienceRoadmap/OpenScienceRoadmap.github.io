@@ -3,8 +3,11 @@ docs:
 - title: Blog
   url: /blog
 
-- title: Participants
-  url: /participants
+- title: Contribute
+  url: /contribute
 
 - title: Meetings
   url: /meetings
+
+- title: Participants
+  url: /participants
