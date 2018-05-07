@@ -21,6 +21,7 @@ The following individuals and organizations are participating in the development
 </people>
 
 <h2 id="organizations">Organizations</h2>
+You can also view a full-width page of just the <a href="organizations">logos for participating organizations</a>.
 <organizations>
 {%- assign organizations = site.data.participants.orgs | where:"type","org" | sort_natural: 'org' -%}
 {%- for organization in organizations -%}
