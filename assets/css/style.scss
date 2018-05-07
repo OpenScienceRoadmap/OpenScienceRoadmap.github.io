@@ -8,6 +8,18 @@ a:hover, a:focus {
   text-decoration: underline;
 }
 
+.callout {
+  background-color: lightgrey;
+  color: #2f2f2f;
+  font-weight: bold;
+  padding: 1em;
+  text-align: center;
+}
+
+.callout a {
+  font-weight: bold;
+}
+
 /* Partcipants */
 logo {
   display: block;
