@@ -1,113 +1,134 @@
-people:
-# add in any order; sorted on output
-# namefamily required
+orgs:
+# add in any order
+# sorted on output
+# namefamily and org required
 
-- namegiven: Samantha
+- type: person
+  namegiven: Samantha
   namefamily: Hindle
+  org: Hindle
+  logo: HindleSamantha.png
   url: https://twitter.com/hindlesamantha
 
-- namegiven: Daniel
+- type: person
+  namegiven: Daniel
   namefamily: Mietchen
+  org: Mietchen
+  logo: MietchenDaniel.png
   url: https://dsi.virginia.edu/people/daniel-mietchen
 
-orgs:
-# add in any order; sorted on output
-# org required
+- type: org
+  org: Hypothesis
+  url: https://web.hypothes.is/
+  logo: Hypothesis.png
 
-- org: Hypothesis
-  orgurl: https://web.hypothes.is/
-  orglogo: Hypothesis.png
-
-- org: Earth and Space Science Open Archive
-  orgnick: EESOAr
-  orgurl: https://www.essoar.org/
-  orglogo: ESSOAr.png
+- type: org
+  org: Earth and Space Science Open Archive
+  nick: EESOAr
+  url: https://www.essoar.org/
+  logo: ESSOAr.png
   parent: American Geophysical Union
   parentnick: AGU
   parenturl: https://sites.agu.org/
   parentlogo: AGU.png
 
-- org: Berkeley Institute of Data Science
-  orgnick: BIDS
-  orgurl: https://bids.berkeley.edu/
-  orglogo: BIDS.png
+- type: org
+  org: Berkeley Institute of Data Science
+  nick: BIDS
+  url: https://bids.berkeley.edu/
+  logo: BIDS.png
 
-- org: bioRxiv
-  orgnick: bioRxiv
-  orgurl: https://www.biorxiv.org/
-  orglogo: bioRxiv.png
+- type: org
+  org: bioRxiv
+  nick: bioRxiv
+  url: https://www.biorxiv.org/
+  logo: bioRxiv.png
 
-- org: Collaborative Knowledge Foundation
-  orgnick: Coko
-  orgurl: https://coko.foundation/
-  orglogo: Coko.png
+- type: org
+  org: Collaborative Knowledge Foundation
+  nick: Coko
+  url: https://coko.foundation/
+  logo: Coko.png
 
-- org: Crossref
-  orgnick: Crossref
-  orgurl: https://www.crossref.org/
-  orglogo: Crossref.png
+- type: org
+  org: Crossref
+  nick: Crossref
+  url: https://www.crossref.org/
+  logo: Crossref.png
 
-- org: Dat Project
-  orgnick: Dat Project
-  orgurl: https://datproject.org/
-  orglogo: Dat.png
+- type: org
+  org: Dat Project
+  nick: Dat Project
+  url: https://datproject.org/
+  logo: Dat.png
   parent: Code for Science & Society
   parentnick: CSS
   parenturl: https://codeforscience.org/
 
-- org: eLife
-  orgurl: https://elifesciences.org/
-  orglogo: eLife.png
+- type: org
+  org: eLife
+  url: https://elifesciences.org/
+  logo: eLife.png
 
-- org: ITHAKA
-  orgurl: https://www.ithaka.org/
-  orglogo: Ithaka.png
+- type: org
+  org: ITHAKA
+  url: https://www.ithaka.org/
+  logo: Ithaka.png
 
-- org: Jupyter Project
-  orgurl: http://jupyter.org/
-  orglogo: Jupyter.png
+- type: org
+  org: Jupyter Project
+  url: http://jupyter.org/
+  logo: Jupyter.png
 
-- org: Mozilla
-  orgurl: https://mozilla.org/
-  orglogo: Mozilla.png
+- type: org
+  org: Mozilla
+  url: https://mozilla.org/
+  logo: Mozilla.png
 
-- org: Public Library of Science
-  orgnick: PLOS
-  orgurl: https://www.plos.org/
-  orglogo: PLOS.png
+- type: org
+  org: Public Library of Science
+  nick: PLOS
+  url: https://www.plos.org/
+  logo: PLOS.png
 
-- org: Open Journal Systems
-  orgnick: OJS
-  orgurl: https://pkp.sfu.ca/ojs/
-  orglogo: OJS.png
+- type: org
+  org: Open Journal Systems
+  nick: OJS
+  url: https://pkp.sfu.ca/ojs/
+  logo: OJS.png
   parent: Public Knowledge Project
   parentnick: PKP
   parenturl: https://pkp.sfu.ca/
 
-- org: ORCID
-  orgurl: https://orcid.org/
-  orglogo: ORCID.png
+- type: org
+  org: ORCID
+  url: https://orcid.org/
+  logo: ORCID.png
 
-- org: Open Science Framework
-  orgnick: OSF
-  orgurl: https://osf.io/
-  orglogo: OSF.png
+- type: org
+  org: Open Science Framework
+  nick: OSF
+  url: https://osf.io/
+  logo: OSF.png
   parent: Center for Open Science
   parentnick: COS
   parenturl: https://cos.io/
 
-- org: Zotero
-  orgurl: https://www.zotero.org/
-  orglogo: Zotero.png
+- type: org
+  org: Zotero
+  url: https://www.zotero.org/
+  logo: Zotero.png
   parent: Roy Rosenzweig Center for History and New Media
   parentnick: RRCHNM
   parenturl: https://rrchnm.org/
 
-- org: Scholarly Publishing and Academic Resources Coalition
-  orgnick: SPARC
-  orgurl: https://sparcopen.org/
-  orglogo: SPARC.png
+- type: org
+  org: Scholarly Publishing and Academic Resources Coalition
+  nick: SPARC
+  url: https://sparcopen.org/
+  logo: SPARC.png
 
-- org: Wikimedia
-  orgurl: https://www.wikimedia.org/
-  orglogo: Wikimedia.png
+- type: org
+  org: Wikimedia
+  url: https://www.wikimedia.org/
+  logo: Wikimedia.png
