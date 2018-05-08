@@ -109,7 +109,7 @@ orgs:
   org: Open Science Framework
   nick: OSF
   url: https://osf.io/
-  logo: OSF.png
+  logo: COS.png
   parent: Center for Open Science
   parentnick: COS
   parenturl: https://cos.io/
