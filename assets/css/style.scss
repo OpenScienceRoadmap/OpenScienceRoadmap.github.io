@@ -52,14 +52,6 @@ organization {
   margin: auto;
 }
 
-.list organization:after {
-  content: '\2022';
-}
-
-.list organization:last-child:after {
-  content: '';
-}
-
 logo {
   display: block;
 }

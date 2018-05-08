@@ -37,5 +37,6 @@ The following organizations are participating in the development of a joint road
       {%- if organization.url -%}</a>{%- endif -%}
     </name>
   </organization>
+  {%- if forloop.last == false -%}&bull;{%- endif -%}
 {%- endfor -%}
 </organizations>
