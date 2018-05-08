@@ -1,7 +1,8 @@
 orgs:
 # add in any order
 # sorted on output
-# namefamily and org required
+# type: person required: type, namefamily, org
+# type: org required: type, org, nick
 
 - type: person
   namegiven: Samantha
@@ -19,6 +20,7 @@ orgs:
 
 - type: org
   org: Hypothesis
+  nick: Hypothesis
   url: https://web.hypothes.is/
   logo: Hypothesis.png
 
@@ -67,21 +69,25 @@ orgs:
 
 - type: org
   org: eLife
+  nick: eLife
   url: https://elifesciences.org/
   logo: eLife.png
 
 - type: org
   org: ITHAKA
+  nick: ITHAKA
   url: https://www.ithaka.org/
   logo: Ithaka.png
 
 - type: org
   org: Jupyter Project
+  nick: Jupyter Project
   url: http://jupyter.org/
   logo: Jupyter.png
 
 - type: org
   org: Mozilla
+  nick: Mozilla
   url: https://mozilla.org/
   logo: Mozilla.png
 
@@ -102,6 +108,7 @@ orgs:
 
 - type: org
   org: ORCID
+  nick: ORCID
   url: https://orcid.org/
   logo: ORCID.png
 
@@ -116,6 +123,7 @@ orgs:
 
 - type: org
   org: Zotero
+  nick: Zotero
   url: https://www.zotero.org/
   logo: Zotero.png
   parent: Roy Rosenzweig Center for History and New Media
@@ -130,5 +138,6 @@ orgs:
 
 - type: org
   org: Wikimedia
+  nick: Wikimedia
   url: https://www.wikimedia.org/
   logo: Wikimedia.png

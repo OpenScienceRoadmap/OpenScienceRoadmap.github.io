@@ -40,7 +40,7 @@ You can also view a full-width page of just the <a href="organizations">logos fo
     <name>
       {%- if organization.url -%}<a href="{{ organization.url }}">{%- endif -%}
       {{ organization.org }}
-      {%- if organization.nick -%}{{ organization.nick | prepend: ' (' | append: ')' }}{%- endif -%}
+      {%- if organization.nick != organization.org -%}{{ organization.nick | prepend: ' (' | append: ')' }}{%- endif -%}
       {%- if organization.url -%}</a>{%- endif -%}
       {%- if organization.parenturl -%}&nbsp;/&nbsp;<a href="{{ organization.parenturl }}">{%- endif -%}
       {%- if organization.parent -%}{{ organization.parent }}{%- endif -%}

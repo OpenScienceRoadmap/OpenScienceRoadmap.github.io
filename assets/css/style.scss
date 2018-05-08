@@ -28,6 +28,38 @@ a:hover, a:focus {
 }
 
 /* Partcipants */
+organizations {
+  align-items: center;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+organizations.list {
+  display: block;
+  margin: 4em 0 0 0;
+  text-align: center;
+}
+
+organization {
+  margin: 1em;
+  text-align: center;
+  width: 200px;
+}
+
+.list organization {
+  width: auto;
+  margin: auto;
+}
+
+.list organization:after {
+  content: '\2022';
+}
+
+.list organization:last-child:after {
+  content: '';
+}
+
 logo {
   display: block;
 }
@@ -43,17 +75,8 @@ name {
   display: block;
 }
 
-organization {
-  margin: 1em;
-  text-align: center;
-  width: 200px;
-}
-
-organizations {
-  align-items: center;
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: center;
+.list name {
+  display: inline;
 }
 
 /* Wide Layout */
