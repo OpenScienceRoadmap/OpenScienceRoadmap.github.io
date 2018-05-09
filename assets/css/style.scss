@@ -4,6 +4,10 @@
 @import "{{ site.theme }}";
 
 /* Global */
+header {
+  position: relative;
+}
+
 a:hover, a:focus {
   font-weight: unset;
   text-decoration: underline;
