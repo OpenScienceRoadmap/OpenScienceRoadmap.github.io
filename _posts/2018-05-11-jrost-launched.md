@@ -2,9 +2,10 @@
 layout: post
 title: 'Open Science Projects Collaborate on Joint Roadmap'
 date: '2018-05-11 09:42:00 -0700'
+permalink: /:year/:month/:day/:title:output_ext
 author: Nate Angell
 authorurl: 'http://xolotl.org/'
-categories: jrost
+categories: jrost, open, science, tools, services, platforms, roadmap, integration
 ---
 
 A group of organizations building nonprofit, open-source tools for scholarship and publication has joined with open-science researchers in a new collaboration to develop a Joint Roadmap for Open Science Tools (JROST).
