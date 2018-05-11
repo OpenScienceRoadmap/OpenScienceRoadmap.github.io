@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Join
-The JROST community welcomes participation from everyone committed to advancing nonprofit, open-source tools for science. [Contact us](mailto:info@jrost.org) if you or your project/organization would like to join [JROST's formal participants](participants).
+The JROST community welcomes participation from everyone committed to advancing nonprofit, open-source tools for science. Visit our [participants repository](https://github.com/OpenScienceRoadmap/Participants) for instructions on how you or your project/organization can join [JROST's formal participants](participants).
 
 # Communicate
 
