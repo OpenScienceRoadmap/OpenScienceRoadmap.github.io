@@ -3,10 +3,10 @@ layout: default
 ---
 
 # Blog
-JROST blog posts will be listed here.
 
 {% for item in site.posts %}
-  ## {{ item.title }}
+  <h2>{{ item.title }}</h2>
+  <em>{{ item.date | date: "%b %-d, %Y" }}</em>
   {{ item.excerpt }}
   <a href="{{ item.url }}">Read more ></a>
 {% endfor %}
