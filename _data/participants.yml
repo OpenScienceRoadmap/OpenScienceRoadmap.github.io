@@ -74,12 +74,6 @@ orgs:
   logo: eLife.png
 
 - type: org
-  org: ITHAKA
-  nick: ITHAKA
-  url: https://www.ithaka.org/
-  logo: Ithaka.png
-
-- type: org
   org: Jupyter Project
   nick: Jupyter Project
   url: http://jupyter.org/
