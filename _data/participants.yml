@@ -101,7 +101,7 @@ orgs:
   org: Open Journal Systems
   nick: OJS
   url: https://pkp.sfu.ca/ojs/
-  logo: OJS.png
+  logo: PKP.png
   parent: Public Knowledge Project
   parentnick: PKP
   parenturl: https://pkp.sfu.ca/
