@@ -22,7 +22,7 @@ Our common purpose is to deliver:
 
 Through workshops and other coordinated activities, the Joint Roadmap will bring together technology organizations and researchers who are actively involved in the design and production of open scholarly infrastructure. Our objectives will be to explore shared goals and outcomes, develop cross-platform user stories, and identify obvious areas of mutual collaboration. What do our future roadmaps look like and how are they compatible or divergent? What integrations should we consider? What actions or paradigms should we all support? How do we design our tools so they improve researcher effectiveness; help research be more findable, accessible, interoperable and reusable; enhance publication and discovery; and together create a whole greater than the sum of its parts?
 
-As our first wider public activity, we are participating in the [2018 Mozilla Global Sprint](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018) during Thu 10–Fri 11 May. Join us before, during or after the #mozsprint to help envision the roadmap and begin to make it happen. Start participating at any time:
+As our first wider public activity, we are participating in the [2018 Mozilla Global Sprint](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018) during Thu 10–Fri 11 May. Join us during or after the #mozsprint to help envision the roadmap and begin to make it happen. Start participating at any time:
 * Comment on [JROST’s #mozsprint record](https://github.com/mozilla/global-sprint/issues/285).
 * Review and contribute to [existing issues](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/issues).
 * Enter [new issues](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018/issues/new).
