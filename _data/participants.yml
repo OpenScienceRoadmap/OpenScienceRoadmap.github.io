@@ -91,14 +91,15 @@ orgs:
   url: https://www.plos.org/
   logo: PLOS.png
 
+# PKP has its data reversed because they want the parent as primary
 - type: org
-  org: Open Journal Systems
-  nick: OJS
-  url: https://pkp.sfu.ca/ojs/
+  org: Public Knowledge Project
+  nick: PKP
+  url: https://pkp.sfu.ca/
   logo: PKP.png
-  parent: Public Knowledge Project
-  parentnick: PKP
-  parenturl: https://pkp.sfu.ca/
+  parent: Open Journal Systems
+  parentnick: OJS
+  parenturl: https://pkp.sfu.ca/ojs/
 
 - type: org
   org: ORCID
