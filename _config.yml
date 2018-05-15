@@ -3,3 +3,5 @@ title: Joint Roadmap for Open Science Tools
 description: A community working on a joint roadmap for open science tools.
 plugins:
   - jekyll-feed
+github_username: OpenScienceRoadmap
+twitter_username: OpenSciRoadmap
