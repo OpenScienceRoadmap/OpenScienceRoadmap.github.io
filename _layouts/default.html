@@ -5,8 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
     {% seo %}
+    {% feed_meta %}
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <meta name="viewport" content="width=device-width">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -37,6 +39,11 @@
 
         <hr>
         <p><strong>Contact us</strong>: <a href="mailto:info@jrost.org">info@jrost.org</a></p>
+        <socialicons>
+          <socialicon>
+            <a href="/feed.xml"><i class="fa fa-rss"></i> RSS</a>
+          </socialicon>
+        </socialicons>
         <p class="licensing" xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
           <a rel="license" href="http://creativecommons.org/publicdomain/zero/1.0/"><img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" alt="CC0" /></a>
           Unless otherwise noted and to the extent possible under law, <a rel="dct:publisher" href="http://jrost.org"><span property="dct:title">JROST</span></a> has waived all copyright and related or neighboring rights to the <span property="dct:title">JROST Website</span>, published from the <span property="vcard:Country" datatype="dct:ISO3166" content="US" about="http://jrost.org">United States of America</span>.
