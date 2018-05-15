@@ -75,6 +75,22 @@ name {
   display: inline;
 }
 
+/* Social Icons */
+socialicons {
+  display: flex;
+  font-size: 1em;
+  justify-content: flex-start;
+  margin: 0 0 2em 0;
+}
+
+socialicon {
+  margin: 0 .5em;
+}
+
+socialicon .fa {
+  font-size: 2em;
+}
+
 /* Wide Layout */
 .wide .wrapper {
   width: 100%;
