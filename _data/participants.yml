@@ -57,15 +57,17 @@ orgs:
   nick: Crossref
   url: https://www.crossref.org/
   logo: Crossref.png
+  
+# CSS has its data reversed because they want the parent as primary
 
 - type: org
-  org: Dat Project
-  nick: Dat Project
-  url: https://datproject.org/
+  org: Code for Science & Society
+  nick: CS&S
+  url: https://codeforscience.org/
   logo: Dat.png
-  parent: Code for Science & Society
-  parentnick: CSS
-  parenturl: https://codeforscience.org/
+  parent: The Dat Project
+  parentnick: Dat
+  parenturl: https://datproject.org/
 
 - type: org
   org: eLife
