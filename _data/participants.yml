@@ -57,7 +57,7 @@ orgs:
   nick: Crossref
   url: https://www.crossref.org/
   logo: Crossref.png
-  
+
 # CSS has its data reversed because they want the parent as primary
 
 - type: org
@@ -138,3 +138,10 @@ orgs:
   nick: Wikimedia
   url: https://www.wikimedia.org/
   logo: Wikimedia.png
+
+- type: person
+  namegiven: Bianca
+  namefamily: Kramer
+  org: Kramer
+  logo: KramerBianca.jpg
+  url: https://twitter.com/MsPhelps
