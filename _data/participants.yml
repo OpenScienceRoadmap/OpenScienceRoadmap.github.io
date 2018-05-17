@@ -151,3 +151,9 @@ orgs:
   nick: Meta
   url: http://meta.org/
   logo: Meta.png
+
+- type: org
+  org: OpenML
+  nick: OpenML
+  url: https://www.openml.org/
+  logo: OpenML.png
