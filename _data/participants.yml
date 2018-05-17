@@ -145,3 +145,9 @@ orgs:
   org: Kramer
   logo: KramerBianca.jpg
   url: https://twitter.com/MsPhelps
+
+- type: org
+  org: Meta
+  nick: Meta
+  url: http://meta.org/
+  logo: Meta.png
