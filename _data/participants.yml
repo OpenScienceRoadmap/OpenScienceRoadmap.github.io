@@ -57,6 +57,7 @@ orgs:
   nick: Crossref
   url: https://www.crossref.org/
   logo: Crossref.png
+  wikidataid: Q5188229
 
 # CSS has its data reversed because they want the parent as primary
 
@@ -126,6 +127,7 @@ orgs:
   parent: Roy Rosenzweig Center for History and New Media
   parentnick: RRCHNM
   parenturl: https://rrchnm.org/
+  wikidataid: Q226915
 
 - type: org
   org: Scholarly Publishing and Academic Resources Coalition
@@ -157,3 +159,4 @@ orgs:
   nick: OpenML
   url: https://www.openml.org/
   logo: OpenML.png
+  wikidataid: Q52988856

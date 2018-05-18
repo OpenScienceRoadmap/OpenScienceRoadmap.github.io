@@ -15,6 +15,7 @@ The following individuals and organizations are participating in the development
       {%- if individual.namegiven -%}{{ individual.namegiven | append: ' ' }}{%- endif -%}
       {{ individual.namefamily }}
       {%- if individual.url -%}</a>{%- endif -%}
+      {%- if individual.wikidataid -%} (<a href="https://www.wikidata.org/wiki/{{ organization.wikidataid }}">{{ individual.wikidataid }}</a>){%- endif -%}
     </li>
   {%- endfor -%}
 </ul>
@@ -42,6 +43,7 @@ You can also view a full-width page of just the <a href="organizations">logos fo
       {{ organization.org }}
       {%- if organization.nick != organization.org -%}{{ organization.nick | prepend: ' (' | append: ')' }}{%- endif -%}
       {%- if organization.url -%}</a>{%- endif -%}
+      {% if organization.wikidataid %} (<a href="https://www.wikidata.org/wiki/{{ organization.wikidataid }}">{{ organization.wikidataid }}</a>){% endif %}
       {%- if organization.parenturl -%}&nbsp;/&nbsp;<a href="{{ organization.parenturl }}">{%- endif -%}
       {%- if organization.parent -%}{{ organization.parent }}{%- endif -%}
       {%- if organization.parentnick -%}{{ organization.parentnick | prepend: ' (' | append: ')' }}{%- endif -%}
