@@ -110,13 +110,13 @@ orgs:
   logo: ORCID.png
 
 - type: org
-  org: Open Science Framework
-  nick: OSF
-  url: https://osf.io/
+  org: Center for Open Science
+  nick: COS
+  url: https://cos.io/
   logo: COS.png
-  parent: Center for Open Science
-  parentnick: COS
-  parenturl: https://cos.io/
+  parent: Open Science Framework
+  parentnick: OSF
+  parenturl: https://osf.io/
 
 - type: org
   org: Zotero
