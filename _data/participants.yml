@@ -160,3 +160,21 @@ orgs:
   url: https://www.openml.org/
   logo: OpenML.png
   wikidataid: Q52988856
+
+- type: org
+  org: California Digital Library
+  nick: CDL
+  url: https://www.cdlib.org/
+  logo: CDL.png
+
+- type: org
+  org: Dryad
+  nick: Dryad
+  url: https://datadryad.org/
+  logo: Dryad.png
+
+- type: org
+  org: DataCite
+  nick: DataCite
+  url: https://www.datacite.org/
+  logo: DataCite.png
