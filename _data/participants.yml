@@ -178,3 +178,9 @@ orgs:
   nick: DataCite
   url: https://www.datacite.org/
   logo: DataCite.png
+
+- type: org
+  org: Open Knowledge Maps
+  nick: OKMaps
+  url: https://openknowledgemaps.org/
+  logo: OKMaps.png
