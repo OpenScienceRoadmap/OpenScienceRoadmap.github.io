@@ -184,3 +184,10 @@ orgs:
   nick: OKMaps
   url: https://openknowledgemaps.org/
   logo: OKMaps.png
+
+- type: person
+  namegiven: Lisa
+  namefamily: Hinchliffe
+  org: Hinchliffe
+  logo: HinchliffeLisa.png
+  url: https://lisahinchliffe.com/
