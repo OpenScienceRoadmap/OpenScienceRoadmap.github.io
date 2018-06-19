@@ -199,3 +199,9 @@ orgs:
   logo: Unpaywall.png
   parent: Impactstory
   parenturl: https://impactstory.org/
+
+- type: org
+  org: DuraSpace
+  nick: DuraSpace
+  url: https://duraspace.org/
+  logo: DuraSpace.png
