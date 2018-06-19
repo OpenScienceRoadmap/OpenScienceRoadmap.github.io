@@ -191,3 +191,11 @@ orgs:
   org: Hinchliffe
   logo: HinchliffeLisa.png
   url: https://lisahinchliffe.com/
+
+- type: org
+  org: Unpaywall
+  nick: Unpaywall
+  url: https://unpaywall.org/
+  logo: Unpaywall.png
+  parent: Impactstory
+  parenturl: https://impactstory.org/
