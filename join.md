@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Join
-The Joint Roadmap community welcomes participation from organizations and individuals committed to advancing open tools for science and their ecosystem. Participating organizations are not-for-profit organizations, institutions, projects, or communities that develop and steward open-source science tools and their ecosystem. Individual participants are typically scholars, technologists, or other practitioners with deep commitments to open science. Visit our [repository](https://github.com/OpenScienceRoadmap/jrost) for instructions on how you and/or your project/organization can join the [Joint Roadmap's formal participants](participants).
+The Joint Roadmap community welcomes participation from organizations and individuals committed to advancing open tools for science and their ecosystem. Formally participating organizations are not-for-profit organizations, institutions, projects, or communities that develop and steward open-source science tools and their ecosystem. Individual participants formally are typically scholars, technologists, or other practitioners with deep commitments to open science. Visit our [repository](https://github.com/OpenScienceRoadmap/jrost) for instructions on how you and/or your project/organization can join the [Joint Roadmap's formal participants](participants).
 
 # Communicate
 
