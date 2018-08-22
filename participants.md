@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Participants
-The following individuals and organizations are participating in the development of a joint roadmap for open science tools. <a href="mailto:info@jrost.org" title="email JROST">Contact us to join</a>.
+The following individuals and organizations are participating formally in the development of a joint roadmap for open science tools. [Learn more](https://github.com/OpenScienceRoadmap/jrost#participants) about how to join as a formal participant.
 
 <h2 id="individuals">Individuals</h2>
 <people>
