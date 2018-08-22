@@ -3,7 +3,7 @@ layout: wide
 ---
 
 # Participating Organizations
-The following organizations are participating in the development of a joint roadmap for open science tools. See a <a href="participants" title="JROST participants">complete list of participants</a> or <a href="mailto:info@jrost.org" title="email JROST">contact us to join</a>.
+The following organizations are participating formally in the development of a joint roadmap for open science tools. See a <a href="participants" title="formal Joint Roadmap participants">complete list of all individuals and organizations participating formally</a> and learn more about [how to join as a formal participant](https://github.com/OpenScienceRoadmap/jrost#participants).
 
 <!-- organization logos -->
 <organizations>
