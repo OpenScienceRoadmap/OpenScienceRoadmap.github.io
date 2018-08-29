@@ -205,3 +205,9 @@ orgs:
   nick: DuraSpace
   url: https://duraspace.org/
   logo: DuraSpace.png
+
+- type: org
+  org: Data2paper
+  nick: Data2paper
+  url: https://data2paper.org/
+  logo: Data2paper.png
