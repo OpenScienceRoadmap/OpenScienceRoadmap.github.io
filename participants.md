@@ -1,8 +1,9 @@
 ---
 layout: default
+title: Formal Participants
 ---
 
-# Participants
+# Formal Participants
 The following individuals and organizations are participating formally in the development of a joint roadmap for open science tools. Learn more about [how to join as a formal participant](https://github.com/OpenScienceRoadmap/jrost#participants).
 
 <h2 id="individuals">Individuals</h2>

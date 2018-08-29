@@ -1,5 +1,6 @@
 ---
 layout: wide
+title: Organizations
 ---
 
 # Participating Organizations
