@@ -211,3 +211,9 @@ orgs:
   nick: Data2paper
   url: https://data2paper.org/
   logo: Data2paper.png
+
+- type: org
+  org: ASAPbio
+  nick: ASAPbio
+  url: http://asapbio.org/
+  logo: ASAPbio.png
