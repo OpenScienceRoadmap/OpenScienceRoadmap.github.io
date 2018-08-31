@@ -217,3 +217,9 @@ orgs:
   nick: ASAPbio
   url: http://asapbio.org/
   logo: ASAPbio.png
+
+- type: org
+  org: Retraction Watch
+  nick: Retraction Watch
+  url: https://retractionwatch.com/
+  logo: RetractionWatch.png
