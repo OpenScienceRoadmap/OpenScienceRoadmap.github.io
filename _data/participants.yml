@@ -229,3 +229,9 @@ orgs:
   nick: Open Science MOOC
   url: https://opensciencemooc.github.io/site/
   logo: OpenScienceMOOC.png
+
+- type: org
+  org: Common Workflow Language Project
+  nick: CWL
+  url: https://www.commonwl.org/
+  logo: CWL.png
