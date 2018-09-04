@@ -223,3 +223,9 @@ orgs:
   nick: Retraction Watch
   url: https://retractionwatch.com/
   logo: RetractionWatch.png
+
+- type: org
+  org: Open Science MOOC
+  nick: Open Science MOOC
+  url: https://opensciencemooc.github.io/site/
+  logo: OpenScienceMOOC.png
