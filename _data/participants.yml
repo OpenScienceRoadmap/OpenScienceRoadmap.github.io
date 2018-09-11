@@ -235,3 +235,9 @@ orgs:
   nick: CWL
   url: https://www.commonwl.org/
   logo: CWL.png
+
+- type: org
+  org: OpenAIRE
+  nick: OpenAIRE
+  url: https://www.openaire.eu/
+  logo: OpenAIRE.png
