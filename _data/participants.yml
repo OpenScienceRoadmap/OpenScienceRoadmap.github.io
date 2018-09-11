@@ -253,3 +253,9 @@ orgs:
   nick: Ursa Labs
   url: https://ursalabs.org/
   logo: UrsaLabs.png
+
+- type: org
+  org: Directory of Open Access Journals
+  nick: DOAJ
+  url: https://doaj.org/
+  logo: DOAJ.png
