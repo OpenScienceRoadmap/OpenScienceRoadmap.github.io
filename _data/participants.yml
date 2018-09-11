@@ -247,3 +247,9 @@ orgs:
   nick: CNI
   url: https://www.cni.org/
   logo: CNI.png
+
+- type: org
+  org: Ursa Labs
+  nick: Ursa Labs
+  url: https://ursalabs.org/
+  logo: UrsaLabs.png
