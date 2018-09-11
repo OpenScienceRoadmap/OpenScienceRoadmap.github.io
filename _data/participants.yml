@@ -259,3 +259,9 @@ orgs:
   nick: DOAJ
   url: https://doaj.org/
   logo: DOAJ.png
+
+- type: org
+  org: Synapse
+  nick: Synapse
+  url: https://www.synapse.org/
+  logo: Synapse.png
