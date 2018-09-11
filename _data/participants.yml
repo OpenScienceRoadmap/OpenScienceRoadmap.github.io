@@ -241,3 +241,9 @@ orgs:
   nick: OpenAIRE
   url: https://www.openaire.eu/
   logo: OpenAIRE.png
+
+- type: org
+  org: Coalition for Networked Information
+  nick: CNI
+  url: https://www.cni.org/
+  logo: CNI.png
