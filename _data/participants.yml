@@ -265,3 +265,10 @@ orgs:
   nick: Synapse
   url: https://www.synapse.org/
   logo: Synapse.png
+
+- type: person
+  namegiven: Jeroen
+  namefamily: Bosman
+  org: Bosman
+  logo: BosmanJeroen.png
+  url: https://twitter.com/jeroenbosman
