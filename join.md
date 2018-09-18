@@ -13,6 +13,9 @@ The Joint Roadmap community communicates on Twitter as a way to have public, per
 * Follow [@OpenSciRoadmap](https://twitter.com/OpenSciRoadmap) on Twitter
 * Tweet to the @OpenSciRoadmap handle and/or with the [#OpenSciRoadmap hashtag](https://twitter.com/search?f=tweets&vertical=default&q=%23OpenSciRoadmap&src=typd).
 
+## Slack
+Our community connects informally in a Slack workspace. Email [info@jrost.org](mailto:info@jrost.org) with a brief explanation of how you are engaged in open science and/or open science tools to join.
+
 ## Email
 Subscribe to the [Joint Roadmap Google Group](https://groups.google.com/forum/#!forum/jrost) to receive and post emails to the community.
 
