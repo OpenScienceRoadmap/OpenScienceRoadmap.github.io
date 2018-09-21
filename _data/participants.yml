@@ -23,6 +23,7 @@ orgs:
   nick: Hypothesis
   url: https://web.hypothes.is/
   logo: Hypothesis.png
+  wikidataid: Q5961247
 
 - type: org
   org: Earth and Space Science Open Archive
@@ -33,24 +34,28 @@ orgs:
   parentnick: AGU
   parenturl: https://sites.agu.org/
   parentlogo: AGU.png
+  wikidataid: Q53731276
 
 - type: org
   org: Berkeley Institute of Data Science
   nick: BIDS
   url: https://bids.berkeley.edu/
   logo: BIDS.png
+  wikidataid: Q21410964
 
 - type: org
   org: bioRxiv
   nick: bioRxiv
   url: https://www.biorxiv.org/
   logo: bioRxiv.png
+  wikidataid: Q19835482
 
 - type: org
   org: Collaborative Knowledge Foundation
   nick: Coko
   url: https://coko.foundation/
   logo: Coko.png
+  wikidataid: Q53731474
 
 - type: org
   org: Crossref
@@ -75,24 +80,28 @@ orgs:
   nick: eLife
   url: https://elifesciences.org/
   logo: eLife.png
+  wikidataid: Q2000008
 
 - type: org
   org: Jupyter Project
   nick: Jupyter Project
   url: http://jupyter.org/
   logo: Jupyter.png
+  wikidataid: Q18633895
 
 - type: org
   org: Mozilla
   nick: Mozilla
   url: https://mozilla.org/
   logo: Mozilla.png
+  wikidataid: Q55672
 
 - type: org
   org: Public Library of Science
   nick: PLOS
   url: https://www.plos.org/
   logo: PLOS.png
+  wikidataid: Q233358
 
 # PKP has its data reversed because they want the parent as primary
 - type: org
@@ -103,12 +112,14 @@ orgs:
   parent: Open Journal Systems
   parentnick: OJS
   parenturl: https://pkp.sfu.ca/ojs/
+  wikidataid: Q680086
 
 - type: org
   org: ORCID
   nick: ORCID
   url: https://orcid.org/
   logo: ORCID.png
+  wikidataid: Q19861084
 
 - type: org
   org: Center for Open Science
@@ -118,6 +129,7 @@ orgs:
   parent: Open Science Framework
   parentnick: OSF
   parenturl: https://osf.io/
+  wikidataid: Q16972305
 
 - type: org
   org: Zotero
@@ -134,12 +146,14 @@ orgs:
   nick: SPARC
   url: https://sparcopen.org/
   logo: SPARC.png
+  wikidataid: Q647039
 
 - type: org
   org: Wikimedia
   nick: Wikimedia
   url: https://www.wikimedia.org/
   logo: Wikimedia.png
+  wikidataid: Q180
 
 - type: person
   namegiven: Bianca
@@ -153,6 +167,7 @@ orgs:
   nick: Meta
   url: http://meta.org/
   logo: Meta.png
+  wikidataid: Q17079550
 
 - type: org
   org: OpenML
@@ -166,24 +181,28 @@ orgs:
   nick: CDL
   url: https://www.cdlib.org/
   logo: CDL.png
+  wikidataid: Q5020447
 
 - type: org
   org: Dryad
   nick: Dryad
   url: https://datadryad.org/
   logo: Dryad.png
+  wikidataid: Q5309616
 
 - type: org
   org: DataCite
   nick: DataCite
   url: https://www.datacite.org/
   logo: DataCite.png
+  wikidataid: Q821542
 
 - type: org
   org: Open Knowledge Maps
   nick: OKMaps
   url: https://openknowledgemaps.org/
   logo: OKMaps.png
+  wikidataid: Q48802126
 
 - type: person
   namegiven: Lisa
@@ -199,12 +218,14 @@ orgs:
   logo: Unpaywall.png
   parent: Impactstory
   parenturl: https://impactstory.org/
+  wikidataid: Q38352586
 
 - type: org
   org: DuraSpace
   nick: DuraSpace
   url: https://duraspace.org/
   logo: DuraSpace.png
+  wikidataid: Q5316104
 
 - type: org
   org: Data2paper
@@ -217,54 +238,63 @@ orgs:
   nick: ASAPbio
   url: http://asapbio.org/
   logo: ASAPbio.png
+  wikidataid: Q56070723
 
 - type: org
   org: Retraction Watch
   nick: Retraction Watch
   url: https://retractionwatch.com/
   logo: RetractionWatch.png
+  wikidataid: Q17078233
 
 - type: org
   org: Open Science MOOC
   nick: Open Science MOOC
   url: https://opensciencemooc.github.io/site/
   logo: OpenScienceMOOC.png
+  wikidataid: Q56433323
 
 - type: org
   org: Common Workflow Language Project
   nick: CWL
   url: https://www.commonwl.org/
   logo: CWL.png
+  wikidataid: Q56291707
 
 - type: org
   org: OpenAIRE
   nick: OpenAIRE
   url: https://www.openaire.eu/
   logo: OpenAIRE.png
+  wikidataid: Q25106053
 
 - type: org
   org: Coalition for Networked Information
   nick: CNI
   url: https://www.cni.org/
   logo: CNI.png
+  wikidataid: Q5137944
 
 - type: org
   org: Ursa Labs
   nick: Ursa Labs
   url: https://ursalabs.org/
   logo: UrsaLabs.png
+  wikidataid: Q56606015
 
 - type: org
   org: Directory of Open Access Journals
   nick: DOAJ
   url: https://doaj.org/
   logo: DOAJ.png
+  wikidataid: Q1227538
 
 - type: org
   org: Synapse
   nick: Synapse
   url: https://www.synapse.org/
   logo: Synapse.png
+  wikidataid: Q56328412
 
 - type: person
   namegiven: Jeroen
