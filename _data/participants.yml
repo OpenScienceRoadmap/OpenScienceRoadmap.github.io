@@ -47,10 +47,10 @@ orgs:
   logo: bioRxiv.png
 
 - type: org
-  org: Collaborative Knowledge Foundation
-  nick: Coko
-  url: https://coko.foundation/
-  logo: Coko.png
+  org: Strategies for Open Science (Stratos)
+  nick: Stratos
+  url: 
+  logo: Stratos.png
 
 - type: org
   org: Crossref
