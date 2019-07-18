@@ -47,9 +47,9 @@ orgs:
   logo: bioRxiv.png
 
 - type: org
-  org: Strategies for Open Science (Stratos)
+  org: Strategies for Open Science
   nick: Stratos
-  url: 
+  url:
   logo: Stratos.png
 
 - type: org
