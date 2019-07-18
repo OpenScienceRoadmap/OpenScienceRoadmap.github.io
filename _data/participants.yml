@@ -197,8 +197,8 @@ orgs:
   nick: Unpaywall
   url: https://unpaywall.org/
   logo: Unpaywall.png
-  parent: Impactstory
-  parenturl: https://impactstory.org/
+  parent: Our Research
+  parenturl: https://our-research.org/
 
 - type: org
   org: DuraSpace
