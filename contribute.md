@@ -4,7 +4,7 @@ title: Contribute
 ---
 
 # Contribute
-JROST continues to expand pathways to contribute and collaborate. We welcome <a href="mailto:info@jrost.org">your suggestions</a>.
+JROST continues to expand pathways to contribute and collaborate. We welcome <a href="mailto:contact@investinopen.org">your suggestions</a>.
 
 ## Mozilla Global Sprint 2018
 Our participation in [#mozsprint 2018](https://github.com/OpenScienceRoadmap/mozilla-sprint-2018) was focused on brainstorming for the Joint Roadmap for Open Science Tools. We aim to improve the open science landscape systemically by bringing together a range of open projects to explore how they can be improved collectively and integrated towards a more interoperable open science ecosystem.
