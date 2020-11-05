@@ -33,4 +33,4 @@ We are also planning our first face-to-face workshop, tentatively scheduled for 
 
 [Find out more about the Joint Roadmap]({{ site.url }}) and how you can join our growing community to create a more powerful future for researchers.
 
-Please [Contact us](mailto:info@jrost.org) us for more information.
+Please [Contact us](mailto:contact@investinopen.org) us for more information.
