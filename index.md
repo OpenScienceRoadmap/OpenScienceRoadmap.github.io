@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<div class="callout">JROST is now a community initiative of <a href="https://investinopen.org/">Invest in Open Infrastructure</a>. Learn more about our <a href="https://investinopen.org/community/jrost-2020-conference/">14–16 December 2020 event.</a></div>
+<p class="callout">JROST is now a community initiative of <a href="https://investinopen.org/">Invest in Open Infrastructure</a>. Learn more about our <a href="https://investinopen.org/community/jrost-2020-conference/">14–16 December 2020 event.</a></p>
 
 # What
 We propose an effort to develop a “Joint Roadmap for Open Science Tools”. This will be delivered by an informal group of like-minded organizations coming together around a common purpose.
